@@ -1,2 +1,4 @@
-alert("adfgvna");
-(function () {});
+(function () {
+  let screen = document.querySelector(".screen");
+  let buttons = document.querySelectorAll(".btn");
+})();
